@@ -1,0 +1,22 @@
+# Emacs backup files
+####################
+*~
+
+*.DS_Store
+**/*.DS_Store
+*.icloud
+
+# POEdit mo files
+####################
+*.mo
+
+.vscode
+# Logs and Databases
+######################
+*.log
+
+# VIM Swap Files
+######################
+*.swp
+
+
